@@ -20,4 +20,3 @@ Live Demo: https://luminous-cranachan-9f5b51.netlify.app/
 - **Font Awesome 6.5.1** - Icon library for visual enhancements.
 - **Google Fonts** (implied via `utilities.css`) - Modern typography.
 
-## 📁 Project Structure
